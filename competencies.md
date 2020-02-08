@@ -1,6 +1,5 @@
 # 1Password Software Development Career Ladder
 [Level Progression](index.md) | [Competencies](competencies.md)
-\([download as .pdf](1Password_Software development_Career_Ladder.pdf)\)
 
 ## Competencies
 Mastery of a competency is cumulative. At each successive level, software developers are expected to retain the skills and characteristics required at earlier levels.
