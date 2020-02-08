@@ -1,4 +1,4 @@
-# 1Password software development Career Ladder
+# 1Password Software Development Career Ladder
 [Level Progression](index.md) | [Competencies](competencies.md)
 \([download as .pdf](1Password_Software development_Career_Ladder.pdf)\)
 
