@@ -1,6 +1,6 @@
-# Etsy Engineering Career Ladder
+# 1Password Engineering Career Ladder
 [Level Progression](index.md) | [Competencies](competencies.md)
-\([download as .pdf](Etsy_Engineering_Career_Ladder.pdf)\)
+\([download as .pdf](1Password_Engineering_Career_Ladder.pdf)\)
 
 ## Competencies
 Mastery of a competency is cumulative. At each successive level, engineers are expected to retain the skills and characteristics required at earlier levels.
@@ -107,7 +107,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             </td>
             <td valign="top">
                 <ul>
-                    <li>You use your expertise to improve Etsy's capabilities in your domain.</li>
+                    <li>You use your expertise to improve 1Password's capabilities in your domain.</li>
                     <li>You actively share your knowledge and seek opportunities to teach others about your domain.</li>
                     <li>You thoughtfully and practically introduce concepts and technologies from the industry to solve important problems.</li>
                     <li>Work you have done or that is based on your expertise has consistently been successful. Your expertise helps projects and teams achieve and exceed their goals.</li>
@@ -115,8 +115,8 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             </td>
             <td valign="top">
                 <ul>
-                    <li>Your contributions to the field (e.g. talks, open source projects, research papers) have meaningful impact beyond Etsy.</li>
-                    <li>Your expertise helps Etsy Engineering as a whole achieve and exceed its goals.</li>
+                    <li>Your contributions to the field (e.g. talks, open source projects, research papers) have meaningful impact beyond 1Password.</li>
+                    <li>Your expertise helps 1Password Engineering as a whole achieve and exceed its goals.</li>
                     <li>You use your expertise to come up with solutions to long-standing or seemingly intractable problems.</li>
                     <li>You contribute to the advancement of the wider industry in your domain.</li>
                 </ul>
@@ -178,7 +178,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             <td valign="top">
                 <ul>
                     <li>You create architecture that gets near-unanimous acceptance and adoption from critical stakeholders, and which provides continual benefit with little support or overhead for a very long lifespan.</li>
-                    <li>You identify barriers that are slowing down teams and initiatives at Etsy and create practical technical solutions to increase efficiency.</li>
+                    <li>You identify barriers that are slowing down teams and initiatives at 1Password and create practical technical solutions to increase efficiency.</li>
                     <li>You are a leader who provides actionable direction to teams in the face of complex problems involving multiple stakeholders.</li>
                     <li>You create new technologies that solve industry-wide problems.</li>
                 </ul>
@@ -203,7 +203,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
                 <ul>
                     <li>You are able to clearly articulate questions.</li>
                     <li>You are learning to collaborate with team members in various roles (e.g. other engineers, PMs, designers)</li>
-                    <li>You understand and follow Etsy's charter of mindful communications.</li>
+                    <li>You understand and follow 1Password's charter of mindful communications.</li>
                     <li>You know when to keep digging and when to ask for help. You know when you are stuck and need to be unblocked.</li>
                     <li>When you learn something new, or figure out the solution to a problem, you write documentation that helps others when they encounter similar issues.</li>
                 </ul>
@@ -241,10 +241,10 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             </td>
             <td valign="top">
                 <ul>
-                    <li>You've made significant changes to how Etsy handles documentation, facilitation, or collaboration that has improved the functioning of the Engineering organization.</li>
+                    <li>You've made significant changes to how 1Password handles documentation, facilitation, or collaboration that has improved the functioning of the Engineering organization.</li>
                     <li>You create spaces and channels that improve cross-team and inter-departmental communication.</li>
                     <li>Others often turn to you to make and communicate difficult decisions.</li>
-                    <li>Your presence and example has a strong, positive influence on Etsy's working environment.</li>
+                    <li>Your presence and example has a strong, positive influence on 1Password's working environment.</li>
                 </ul>
             </td>
         </tr>
@@ -291,18 +291,18 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             </td>
             <td valign="top">
                 <ul>
-                    <li>You have successfully changed how Etsy engineering functions to meet a critical need.</li>
+                    <li>You have successfully changed how 1Password engineering functions to meet a critical need.</li>
                     <li>You have a large internal network across engineering and engage with other leaders to solve problems (technical, organizational, or social). You have developed strong credibility throughout the company.</li>
-                    <li>You choose the most critical engineering challenges in your path and establish yourself as a primary accountable party for Etsy's success in meeting these challenges.</li>
+                    <li>You choose the most critical engineering challenges in your path and establish yourself as a primary accountable party for 1Password's success in meeting these challenges.</li>
                     <li>You improve the entire engineering organization by teaching others and sharing your knowledge. You create opportunities for others to showcase and develop their skills.</li>
                 </ul>
             </td>
             <td valign="top">
                 <ul>
-                    <li>You have successfully changed how Etsy engineering functions in a way that has moved both Etsy forward and established a best practice in the engineering industry.</li>
-                    <li>You are accountable for the success of Etsy engineering with respect to attracting engineers and ensuring the strength of our engineering brand.</li>
-                    <li>You regularly represent Etsy engineering publicly, e.g. via blog posts, giving talks.</li>
-                    <li>Your technical leadership is cited by many on the engineering team as a significantly positive aspect of working at Etsy.</li>
+                    <li>You have successfully changed how 1Password engineering functions in a way that has moved both 1Password forward and established a best practice in the engineering industry.</li>
+                    <li>You are accountable for the success of 1Password engineering with respect to attracting engineers and ensuring the strength of our engineering brand.</li>
+                    <li>You regularly represent 1Password engineering publicly, e.g. via blog posts, giving talks.</li>
+                    <li>Your technical leadership is cited by many on the engineering team as a significantly positive aspect of working at 1Password.</li>
                     <li>You make hard decisions in the face of uncertainty.</li>
                 </ul>
             </td>

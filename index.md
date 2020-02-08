@@ -1,6 +1,6 @@
-# Etsy Engineering Career Ladder
+# 1Password Engineering Career Ladder
 [Level Progression](index.md) | [Competencies](competencies.md)
-\([download as .pdf](Etsy_Engineering_Career_Ladder.pdf)\)
+\([download as .pdf](1Password_Engineering_Career_Ladder.pdf)\)
 
 ## Level Progression
 ### Engineer I
@@ -56,7 +56,7 @@ Engineers at this level will generally be Advanced in more than one competency. 
 ##### Expectations
 - You take the lead on directing and implementing solutions to significantly complex, unscoped problems.
 - Your work extends to many parts of a domain, and may begin to influence your entire department or domain.
-- You align your team's work with Etsy business and engineering priorities to realize meaningful impact.
+- You align your team's work with 1Password business and engineering priorities to realize meaningful impact.
 - You set technical direction for your teammates.
 - You improve the overall quality of engineering done on your team and consistently take steps to support the growth and success of your teammates.
 
@@ -80,11 +80,11 @@ Engineers at this level will generally be Experts in at least one competency and
 - You identify and build support for the most important initiatives in your domain.
 - You lead in the creation and execution of novel solutions to complex, unbounded technical problems.
 - You define the architecture and technical strategy that guide many engineers in your domain or department.
-- Your work has significant and lasting impact on Etsy's business and Engineering goals.
-- You consistently take steps to support the growth and success of engineers in your department and across Etsy.
+- Your work has significant and lasting impact on 1Password's business and Engineering goals.
+- You consistently take steps to support the growth and success of engineers in your department and across 1Password.
 
 ##### Track Record
-You've met these expectations as you've led numerous projects with consistently high value to Etsy. Your work (e.g. architectural decisions, implementation, etc.) has been validated as a success over a significant window of time, typically at least a year.
+You've met these expectations as you've led numerous projects with consistently high value to 1Password. Your work (e.g. architectural decisions, implementation, etc.) has been validated as a success over a significant window of time, typically at least a year.
 
 ##### Competencies
 Engineers at this level will generally be Experts in multiple competencies, including Leadership.
@@ -92,10 +92,10 @@ Engineers at this level will generally be Experts in multiple competencies, incl
 
 ### Principal Engineer
 ##### Expectations
-- You identify and build support for technical initiatives that address Etsy's most important needs.
-- You define the technical vision and strategy that guide engineers across departments to solve Etsy's thorniest, most intractable technical problems.
-- Your work creates significant and lasting impact on Etsy's business and Engineering goals, while enabling many other teams to reach their goals as well.
-- You consistently take steps to support the growth and success of both engineers and non-engineers across Etsy.
+- You identify and build support for technical initiatives that address 1Password's most important needs.
+- You define the technical vision and strategy that guide engineers across departments to solve 1Password's thorniest, most intractable technical problems.
+- Your work creates significant and lasting impact on 1Password's business and Engineering goals, while enabling many other teams to reach their goals as well.
+- You consistently take steps to support the growth and success of both engineers and non-engineers across 1Password.
 
 ##### Track Record
 Your portfolio of successful and impactful work is long and diverse. It includes both projects you've led directly and projects led by others who depend on your direction.
