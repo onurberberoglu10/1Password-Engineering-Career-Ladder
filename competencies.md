@@ -106,7 +106,7 @@ Mastery of a competency is cumulative. At each successive level, software develo
             </td>
             <td valign="top">
                 <ul>
-                    <li>You use your expertise to improve 1Password's capabilities in your domain.</li>
+                    <li>You use your expertise to improve our capabilities in your domain.</li>
                     <li>You actively share your knowledge and seek opportunities to teach others about your domain.</li>
                     <li>You thoughtfully and practically introduce concepts and technologies from the industry to solve important problems.</li>
                     <li>Work you have done or that is based on your expertise has consistently been successful. Your expertise helps projects and teams achieve and exceed their goals.</li>
@@ -202,7 +202,7 @@ Mastery of a competency is cumulative. At each successive level, software develo
                 <ul>
                     <li>You are able to clearly articulate questions.</li>
                     <li>You are learning to collaborate with team members in various roles (e.g. other software developers, PMs, designers)</li>
-                    <li>You understand and follow 1Password's charter of mindful communications.</li>
+                    <li>You understand and follow our charter of mindful communications.</li>
                     <li>You know when to keep digging and when to ask for help. You know when you are stuck and need to be unblocked.</li>
                     <li>When you learn something new, or figure out the solution to a problem, you write documentation that helps others when they encounter similar issues.</li>
                 </ul>
@@ -243,7 +243,7 @@ Mastery of a competency is cumulative. At each successive level, software develo
                     <li>You've made significant changes to how 1Password handles documentation, facilitation, or collaboration that has improved the functioning of the Software development organization.</li>
                     <li>You create spaces and channels that improve cross-team and inter-departmental communication.</li>
                     <li>Others often turn to you to make and communicate difficult decisions.</li>
-                    <li>Your presence and example has a strong, positive influence on 1Password's working environment.</li>
+                    <li>Your presence and example has a strong, positive influence on the 1Password working environment.</li>
                 </ul>
             </td>
         </tr>
@@ -292,7 +292,7 @@ Mastery of a competency is cumulative. At each successive level, software develo
                 <ul>
                     <li>You have successfully changed how 1Password software development functions to meet a critical need.</li>
                     <li>You have a large internal network across software development and engage with other leaders to solve problems (technical, organizational, or social). You have developed strong credibility throughout the company.</li>
-                    <li>You choose the most critical software development challenges in your path and establish yourself as a primary accountable party for 1Password's success in meeting these challenges.</li>
+                    <li>You choose the most critical software development challenges in your path and establish yourself as a primary accountable party for the success of 1Password in meeting these challenges.</li>
                     <li>You improve the entire software development organization by teaching others and sharing your knowledge. You create opportunities for others to showcase and develop their skills.</li>
                 </ul>
             </td>
