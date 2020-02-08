@@ -1,9 +1,9 @@
-# 1Password Engineering Career Ladder
+# 1Password software development Career Ladder
 [Level Progression](index.md) | [Competencies](competencies.md)
-\([download as .pdf](1Password_Engineering_Career_Ladder.pdf)\)
+\([download as .pdf](1Password_Software development_Career_Ladder.pdf)\)
 
 ## Competencies
-Mastery of a competency is cumulative. At each successive level, engineers are expected to retain the skills and characteristics required at earlier levels.
+Mastery of a competency is cumulative. At each successive level, software developers are expected to retain the skills and characteristics required at earlier levels.
 
 ### Delivery
 **Example Skills:** Scoping and prioritization, Testing and monitoring, Shipping to production, Initiative
@@ -31,7 +31,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
                 <ul>
                     <li>You estimate accurate timelines for tasks and deliver work at a steady, predictable pace to hit your deadlines.</li>
                     <li>You effectively use a variety of testing methods and monitoring tools to ensure the quality and production readiness of your work before and after release.</li>
-                    <li>You consider and build for many different use cases but avoid over engineering.</li>
+                    <li>You consider and build for many different use cases but avoid over-engineering.</li>
                     <li>You ship complete solutions, but release them in small, safe patches.</li>
                     <li>You're a responsible user of our shared infrastructure, considering the effect your work has outside your team and ensuring you are not diminishing their delivery.</li>
                     <li>You identify important tradeoffs and negotiate them, either independently or with your team.</li>
@@ -53,13 +53,13 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
                     <li>You devise, apply, and share novel and nuanced ways to ensure the quality, production readiness, and continued health of complex systems.</li>
                     <li>You incorporate awareness and understanding of work happening outside your team to minimize surprises and make projects more likely to succeed.</li>
                     <li>You work effectively at a variety of speeds: fast when risk is low and time is tight; more deliberately when a cautious and coordinated process is warranted.</li>
-                    <li>You develop widely used technical metrics that enable engineers to better understand and deliver their work.</li>
+                    <li>You develop widely used technical metrics that enable software developers to better understand and deliver their work.</li>
                 </ul>
             </td>
             <td valign="top">
                 <ul>
-                    <li>You remove widely-felt barriers to productivity, finding ways to make the entire engineering organization more effective at shipping products and infrastructure.</li>
-                    <li>You create tools to help engineers deliver, test, and monitor software that can be used across the industry.</li>
+                    <li>You remove widely-felt barriers to productivity, finding ways to make the entire software development organization more effective at shipping products and infrastructure.</li>
+                    <li>You create tools to help software developers deliver, test, and monitor software that can be used across the industry.</li>
                     <li>You work on the tasks that matter most, even if your capabilities far outweigh the challenge.</li>
                     <li>You craft systems that continue to function and can be maintained without your continued involvement.</li>
                 </ul>
@@ -116,7 +116,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             <td valign="top">
                 <ul>
                     <li>Your contributions to the field (e.g. talks, open source projects, research papers) have meaningful impact beyond 1Password.</li>
-                    <li>Your expertise helps 1Password Engineering as a whole achieve and exceed its goals.</li>
+                    <li>Your expertise helps 1Password software development as a whole achieve and exceed its goals.</li>
                     <li>You use your expertise to come up with solutions to long-standing or seemingly intractable problems.</li>
                     <li>You contribute to the advancement of the wider industry in your domain.</li>
                 </ul>
@@ -140,7 +140,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             <td valign="top">
                 <ul>
                     <li>You're able to debug familiar code or systems easily, and you can debug unfamiliar code with some effort.</li>
-                    <li>You recognize when you don't yet have the experience or knowledge to solve a problem and reach out to other engineers for help or guidance.</li>
+                    <li>You recognize when you don't yet have the experience or knowledge to solve a problem and reach out to other software developers for help or guidance.</li>
                     <li>You are beginning to understand which tools are relevant to your work and how to use them.</li>
                     <li>You prepare to work on new tasks by planning an approach ahead of time and confirming it's well thought out.</li>
                     <li>You approach each new task as an opportunity to learn and continually apply what you've learned to each new challenge.</li>
@@ -148,10 +148,10 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             </td>
             <td valign="top">
                 <ul>
-                    <li>You utilize data, future roadmaps, customer research, and relevant engineering principles to inform the decisions you make, assuring your solutions are built for the long term.</li>
+                    <li>You utilize data, future roadmaps, customer research, and relevant software development principles to inform the decisions you make, assuring your solutions are built for the long term.</li>
                     <li>You optimize your workflow by recognizing and solving repetitive problems rather than working around them.</li>
                     <li>You recognize your own mistakes, use them as a learning and teaching opportunity, and adjust your approach to minimize the risk of repeating the same type of mistake.</li>
-                    <li>You utilize new technologies, patterns, and the domain expertise of fellow engineers to supplement your own skills.</li>
+                    <li>You utilize new technologies, patterns, and the domain expertise of fellow software developers to supplement your own skills.</li>
                     <li>You are learning to break down large problems into smaller, more manageable ones.</li>
                     <li>You have strong debugging skills, allowing you to determine source of issues in unfamiliar code or systems.</li>
                 </ul>
@@ -202,7 +202,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             <td valign="top">
                 <ul>
                     <li>You are able to clearly articulate questions.</li>
-                    <li>You are learning to collaborate with team members in various roles (e.g. other engineers, PMs, designers)</li>
+                    <li>You are learning to collaborate with team members in various roles (e.g. other software developers, PMs, designers)</li>
                     <li>You understand and follow 1Password's charter of mindful communications.</li>
                     <li>You know when to keep digging and when to ask for help. You know when you are stuck and need to be unblocked.</li>
                     <li>When you learn something new, or figure out the solution to a problem, you write documentation that helps others when they encounter similar issues.</li>
@@ -222,7 +222,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             <td valign="top">
                 <ul>
                     <li>Your written communication is concise and clear. You document not only the narrow projects you are working on but also larger initiatives, and you make sure the right people have the right context.</li>
-                    <li>You collaborate effectively with your teammates and with others outside your team, with engineers and with people in other roles (e.g. PMs, designers, managers). You encourage collaboration among others.</li>
+                    <li>You collaborate effectively with your teammates and with others outside your team, with software developers and with people in other roles (e.g. PMs, designers, managers). You encourage collaboration among others.</li>
                     <li>You quickly extract core issues from discussions and meetings. Your presence makes meetings more productive.</li>
                     <li>You are adept at giving and receiving constructive feedback and you both give and receive feedback clearly and with empathy.</li>
                     <li>You explain technical concepts clearly and with patience, and adjust your communication based on the audience. You offer help when asked, but you also know when to step back and let others work things out on their own.</li>
@@ -241,7 +241,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             </td>
             <td valign="top">
                 <ul>
-                    <li>You've made significant changes to how 1Password handles documentation, facilitation, or collaboration that has improved the functioning of the Engineering organization.</li>
+                    <li>You've made significant changes to how 1Password handles documentation, facilitation, or collaboration that has improved the functioning of the Software development organization.</li>
                     <li>You create spaces and channels that improve cross-team and inter-departmental communication.</li>
                     <li>Others often turn to you to make and communicate difficult decisions.</li>
                     <li>Your presence and example has a strong, positive influence on 1Password's working environment.</li>
@@ -275,7 +275,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
                     <li>You identify problems and propose solutions to them.</li>
                     <li>You are self-motivated in tackling your team's projects.</li>
                     <li>You seek feedback often and take actionable steps to respond to the feedback.</li>
-                    <li>You help create a safe environment for others to learn and grow as engineers.</li>
+                    <li>You help create a safe environment for others to learn and grow as software developers.</li>
                     <li>You take on small roles that involve direct leadership (being a mentor, running a working group/ERG/etc).</li>
                 </ul>
             </td>
@@ -291,18 +291,18 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             </td>
             <td valign="top">
                 <ul>
-                    <li>You have successfully changed how 1Password engineering functions to meet a critical need.</li>
-                    <li>You have a large internal network across engineering and engage with other leaders to solve problems (technical, organizational, or social). You have developed strong credibility throughout the company.</li>
-                    <li>You choose the most critical engineering challenges in your path and establish yourself as a primary accountable party for 1Password's success in meeting these challenges.</li>
-                    <li>You improve the entire engineering organization by teaching others and sharing your knowledge. You create opportunities for others to showcase and develop their skills.</li>
+                    <li>You have successfully changed how 1Password software development functions to meet a critical need.</li>
+                    <li>You have a large internal network across software development and engage with other leaders to solve problems (technical, organizational, or social). You have developed strong credibility throughout the company.</li>
+                    <li>You choose the most critical software development challenges in your path and establish yourself as a primary accountable party for 1Password's success in meeting these challenges.</li>
+                    <li>You improve the entire software development organization by teaching others and sharing your knowledge. You create opportunities for others to showcase and develop their skills.</li>
                 </ul>
             </td>
             <td valign="top">
                 <ul>
-                    <li>You have successfully changed how 1Password engineering functions in a way that has moved both 1Password forward and established a best practice in the engineering industry.</li>
-                    <li>You are accountable for the success of 1Password engineering with respect to attracting engineers and ensuring the strength of our engineering brand.</li>
-                    <li>You regularly represent 1Password engineering publicly, e.g. via blog posts, giving talks.</li>
-                    <li>Your technical leadership is cited by many on the engineering team as a significantly positive aspect of working at 1Password.</li>
+                    <li>You have successfully changed how 1Password software development functions in a way that has moved both 1Password forward and established a best practice in the software development industry.</li>
+                    <li>You are accountable for the success of 1Password software development with respect to attracting software developers and ensuring the strength of our software development brand.</li>
+                    <li>You regularly represent 1Password software development publicly, e.g. via blog posts, giving talks.</li>
+                    <li>Your technical leadership is cited by many on the software development team as a significantly positive aspect of working at 1Password.</li>
                     <li>You make hard decisions in the face of uncertainty.</li>
                 </ul>
             </td>
