@@ -66,7 +66,7 @@
 * You identify and build support for the most important initiatives in your domain.
 * You lead in the creation and execution of novel solutions to complex, unbounded technical problems.
 * You define the architecture and technical strategy that guide many software developers in your domain or department.
-* Your work has significant and lasting impact on our business and Software development goals.
+* Your work has significant and lasting impact on our business and software development goals.
 * You consistently take steps to support the growth and success of software developers in your department and across 1Password.
 
 #### Track Record
@@ -80,7 +80,7 @@
 #### Expectations
 * You identify and build support for technical initiatives that address the most important needs of 1Password.
 * You define the technical vision and strategy that guide software developers across departments to solve the thorniest, most intractable technical problems at 1Password.
-* Your work creates significant and lasting impact on our business and Software development goals, while enabling many other teams to reach their goals as well.
+* Your work creates significant and lasting impact on our business and software development goals, while enabling many other teams to reach their goals as well.
 * You consistently take steps to support the growth and success of both software developers and non-software developers across 1Password.
 
 #### Track Record
