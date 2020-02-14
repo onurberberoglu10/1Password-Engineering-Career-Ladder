@@ -40,7 +40,7 @@
 
 #### Competencies
 * Software developers at this level will generally be _Advanced_ in at least one competency or will display some _Advanced_-level skills across competencies.
-* At the upper bounds of this level, software developers will generally be _Advanced_ in more than one competency and should no longer be _Beginner_s in any competencies.
+* At the upper bounds of this level, software developers will generally be _Advanced_ in more than one competency and should no longer be _Beginners_ in any competencies.
 
 
 ### Staff Software Developer
@@ -57,8 +57,8 @@
 * As you start approaching the upper bounds of this level you will have consistently met and often exceeded these expectations over the course of many projects. You regularly demonstrate at least one of the **Senior Software Developer** expectations listed below.
 
 #### Competencies
-* Software developers at this level will generally be _Expert_s in one competency or _Advanced_ in all competencies.
-* At the upper bounds of this level, software developers will generally be _Expert_s in at least one competency and will display a range of _Expert_-level skills across competencies.
+* Software developers at this level will generally be _Experts_ in one competency or _Advanced_ in all competencies.
+* At the upper bounds of this level, software developers will generally be _Experts_ in at least one competency and will display a range of _Expert_-level skills across competencies.
 
 
 ### Senior Software Developer
@@ -73,7 +73,7 @@
 * You’ve met these expectations as you’ve led numerous projects with consistently high value to 1Password. Your work (e.g. architectural decisions, implementation, etc.) has been validated as a success over a significant window of time, typically at least a year.
 
 #### Competencies
-* Software developers at this level will generally be _Expert_s in multiple competencies, including _**Leadership**_.
+* Software developers at this level will generally be _Experts_ in multiple competencies, including _**Leadership**_.
 
 
 ### Principal Software Developer
@@ -87,4 +87,4 @@
 * Your portfolio of successful and impactful work is long and diverse. It includes both projects you’ve led directly and projects led by others who depend on your direction.
 
 #### Competencies
-* Software developers at this level will generally be Leading _Expert_s in at least one competency and _Expert_ in one or more others, including _**Leadership**_.
+* Software developers at this level will generally be Leading _Experts_ in at least one competency and _Expert_ in one or more others, including _**Leadership**_.
