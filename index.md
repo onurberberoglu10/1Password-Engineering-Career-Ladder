@@ -3,7 +3,7 @@
 
 
 ## Level Progression
-### Junior Software Developer
+### Junior Developer
 #### Expectations
 * You’re acquiring the basic skills, behaviors, and knowledge necessary for being a professional software developer.
 * You complete narrowly-defined tasks with clear instructions.
@@ -13,7 +13,7 @@
 * Software developers at this level will generally be beginners, or working towards the _Beginner_ level in all competencies.
 
 
-### Software Developer I
+### Developer
 #### Expectations
 * You work within guidelines set by your teammates to independently tackle well-scoped problems.
 * You regularly deliver your work to end users and are a primary contributor to your team’s goals.
@@ -26,7 +26,7 @@
 * Software developers at this level will generally be _Intermediate_ in two or more competencies or will display some _Intermediate_-level skills across all competencies.
 
 
-### Software Developer II
+### Senior Developer
 
 #### Expectations
 * You take the lead on directing and implementing solutions to moderately complex, loosely scoped problems that are aligned with your team’s goals.
@@ -43,7 +43,7 @@
 * At the upper bounds of this level, software developers will generally be _Advanced_ in more than one competency and should no longer be _Beginners_ in any competencies.
 
 
-### Staff Software Developer
+### Staff Developer
 
 #### Expectations
 * You take the lead on directing and implementing solutions to significantly complex, unscoped problems.
@@ -61,7 +61,7 @@
 * At the upper bounds of this level, software developers will generally be _Experts_ in at least one competency and will display a range of _Expert_-level skills across competencies.
 
 
-### Senior Software Developer
+### Senior Staff Developer
 #### Expectations
 * You identify and build support for the most important initiatives in your domain.
 * You lead in the creation and execution of novel solutions to complex, unbounded technical problems.
@@ -76,7 +76,7 @@
 * Software developers at this level will generally be _Experts_ in multiple competencies, including _**Leadership**_.
 
 
-### Principal Software Developer
+### Principal Developer
 #### Expectations
 * You identify and build support for technical initiatives that address the most important needs of 1Password.
 * You define the technical vision and strategy that guide software developers across departments to solve the thorniest, most intractable technical problems at 1Password.
