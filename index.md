@@ -54,7 +54,7 @@
 
 #### Track Record
 * You’ve consistently met these expectations as you’ve led and completed multiple large, successful projects. Each of these projects may have taken many months or longer to see through.
-* As you start approaching the upper bounds of this level you will have consistently met and often exceeded these expectations over the course of many projects. You regularly demonstrate at least one of the **Senior Software Developer** expectations listed below.
+* As you start approaching the upper bounds of this level you will have consistently met and often exceeded these expectations over the course of many projects. You regularly demonstrate at least one of the **Senior Staff Developer** expectations listed below.
 
 #### Competencies
 * Software developers at this level will generally be _Experts_ in one competency or _Advanced_ in all competencies.
