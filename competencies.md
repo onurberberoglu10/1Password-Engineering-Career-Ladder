@@ -36,7 +36,7 @@ The competencies are:
             <td valign="top">
                 <ul>
 					<li>You solve problems within a reasonable timeframe to ship updates to customers.</li>
-					<li>Your changes are well tested to ensure their quality and production readiness both before and after release. This can take the form or unit, integration, and user interface tests.</li>
+					<li>Your changes are well tested to ensure their quality and production readiness both before and after release. This can take the form of unit, integration, and user interface tests.</li>
                     <li>You consider and build for many different use cases but avoid over-engineering and premature optimization.</li>
 					<li>You break your work up into manageable, reviewable chunks that are steps along the way to the final feature, improvement, or bug fix.</li>
                     <li>You identify important tradeoffs and review them with your team.</li>
